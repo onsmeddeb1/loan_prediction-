@@ -1,6 +1,5 @@
 import numpy as np
 
-import numpy as np
 
 
 with open('Loan_prediction_dataset.csv', mode='r') as file:
